@@ -1,4 +1,4 @@
-# FarmerBuddy (Group 4)
+# FarmBuddy (Group 4)
 
 ##  Project for CSCI 4193/5193: Technology Innovation
 
