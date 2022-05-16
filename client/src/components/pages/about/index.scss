@@ -1,0 +1,17 @@
+.about-us {
+    img {
+      max-width: 600px;
+    }
+  .img-wrapper {
+    position: relative;
+
+  }
+    h2 {
+      left: 0;
+      position:absolute;
+      text-align:center;
+      width: 100%;
+      bottom: 30%;
+      color: white;
+    }
+}

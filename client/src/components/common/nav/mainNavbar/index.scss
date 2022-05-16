@@ -1,0 +1,17 @@
+.main-nav {
+  img {
+    width: 30px;
+  }
+
+}
+
+@media (min-width: 768px) {
+  .main-nav {
+    .options {
+      align-items: center;
+    }
+    .hide {
+      display: None;
+    }
+  }
+}

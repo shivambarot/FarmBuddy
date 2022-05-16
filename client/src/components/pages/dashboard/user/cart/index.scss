@@ -1,0 +1,23 @@
+.cart-wrapper {
+  .total{
+    font-size: 24px;
+  }
+}
+@media (min-width: 768px) {
+  .cart {
+    .item {
+      justify-content: start!important;
+      .item-name-pic {
+        align-items: start;
+        justify-content: start;
+      }
+      .remove {
+        justify-content: flex-end!important;
+      }
+    }
+    .total {
+      font-size: 16px;
+    }
+
+  }
+}
